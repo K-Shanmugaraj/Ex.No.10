@@ -1,5 +1,9 @@
 # Ex.No.10: Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 
+### DATE:   25-05-2026                                                                         
+### REGISTER NUMBER : 212223040192
+### NAME: Shanmuga Raj.K
+
 ---
 
 ### **Aim:**
@@ -28,7 +32,7 @@ To effectively generate content, various prompt patterns are used to guide the A
 
 2. **Decision Making:**
 
-![image](https://github.com/user-attachments/assets/8560cf14-6002-4ca9-aadd-a325a447e545)
+<img width="1402" height="1122" alt="image" src="https://github.com/user-attachments/assets/3888319b-f34f-4d20-9b47-6fba33774f03" />
 
    - **Extended Explanation:** Decision-making is used to ask the AI to choose between two or more options, making the process more dynamic and allowing you to steer the content creation towards a specific direction.
    - **Example:** 
